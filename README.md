@@ -1,2 +1,2 @@
-# Help
-Ayuda 
+inventario 
+inventario semanal
